@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/stickynote.svg</file>
+        <file>images/delete.svg</file>
+        <file>images/plus.svg</file>
+        <file>images/info.svg</file>
+        <file>images/power.svg</file>
+        <file>images/preferences.svg</file>
+        <file>images/show.svg</file>
+        <file>images/dollar.svg</file>
+        <file>images/search.svg</file>
+    </qresource>
+</RCC>
